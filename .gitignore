@@ -1,0 +1,6 @@
+@"
+dana_raw_50000.csv
+dana_sentiment_dataset.csv
+__pycache__/
+.ipynb_checkpoints/
+"@ | Set-Content .gitignore
