@@ -378,13 +378,6 @@ The final model achieved **85.65% testing accuracy** on 2,969 unseen reviews.
 
 ---
 
-## Project Series
-
-### One Day One Project #02
-
-This project is part of my **One Day One Project** series, a personal initiative to build practical projects while continuously improving my skills in **Data Science, Machine Learning, NLP, and Artificial Intelligence**.
-
----
 
 ## Author
 
@@ -393,7 +386,3 @@ This project is part of my **One Day One Project** series, a personal initiative
 Data Science | Machine Learning | Artificial Intelligence
 
 ---
-
-## License
-
-This project is intended for educational and portfolio purposes.
